@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": ">=21.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.3",
+    "bun-types": "^1.0.15"
+  },
+  "dependencies": {
+    "bun": "^1.0.15"
+  }
+}
